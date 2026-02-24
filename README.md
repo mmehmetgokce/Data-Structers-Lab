@@ -1,2 +1,5 @@
-# dataStructers
-This repo includes all my work from the Data Structures lab sessions.
+# Data Structers Lab
+
+This repository includes all my work from the Data Structures lab sessions.
+
+Bu repo, Veri Yapıları laboratuvar derslerindeki tüm çalışmalarımı içermektedir.
