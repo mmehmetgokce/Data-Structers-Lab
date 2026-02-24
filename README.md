@@ -2,4 +2,4 @@
 
 This repository includes all my work from the Data Structures lab sessions.
 
-Bu repo, Veri Yapıları laboratuvar derslerindeki tüm çalışmalarımı içermektedir.
+Bu repo, Veri Yapıları laboratuvar dersindeki tüm çalışmalarımı içermektedir.
